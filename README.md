@@ -1,7 +1,7 @@
 Hi 👋 My name is Matias Reynoso
 ===============================
 
-Web developer & QA TEST
+Web developer & QA tester
 ------------------
 
 I am studying in a bootcamp (Radium Rocket) to become a professional software developer. Interested in frontend and QA roles.
