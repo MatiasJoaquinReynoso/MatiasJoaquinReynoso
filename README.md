@@ -3,9 +3,6 @@ Hi 👋 My name is Matias Reynoso
 
 Web developer & QA tester
 ------------------
-
-I am studying in a bootcamp (Radium Rocket) to become a professional software developer. Interested in frontend and QA roles.
-
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [matiasjoaquinreynoso@gmail.com](mailto:matiasjoaquinreynoso@gmail.com)
 
