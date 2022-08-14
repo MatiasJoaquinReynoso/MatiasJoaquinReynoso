@@ -5,6 +5,7 @@ Web developer & QA tester
 ------------------
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [matiasjoaquinreynoso@gmail.com](mailto:matiasjoaquinreynoso@gmail.com)
+* Focused on Test and Process Automation
 
 ### Skills
 
@@ -18,4 +19,4 @@ Web developer & QA tester
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/MatiasJoaquinReynoso" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/matias-reynoso-763b98199" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/matos_reynoso" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+</a> <a href="https://www.linkedin.com/in/matias-reynoso-763b98199" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/matos_reynoso" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
