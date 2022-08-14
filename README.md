@@ -1,11 +1,10 @@
 Hi 👋 My name is Matias Reynoso
 ===============================
 
-Web developer & QA tester
+Web developer & QA analyst
 ------------------
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [matiasjoaquinreynoso@gmail.com](mailto:matiasjoaquinreynoso@gmail.com)
-* Focused on Test and Process Automation
 
 ### Skills
 
