@@ -18,4 +18,4 @@ Web developer & QA analyst
 
 ### Socials
 
-</a> <a href="https://www.linkedin.com/in/matias-reynoso-763b98199" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/matos_reynoso" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+</a> <a href="https://www.linkedin.com/in/matias-reynoso-763b98199" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
