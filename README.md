@@ -8,9 +8,9 @@ QA Manual / Test Automation Engineer
 
 ### Skills
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,gherkin,js,java,mysql,nodejs" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,gherkin,java,mysql,nodejs" />
   </a>
 </p>
 
