@@ -10,7 +10,7 @@ QA Manual / Test Automation Engineer
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,selenium,gherkin,java,mysql,nodejs" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,selenium,gherkin,java,nodejs" />
   </a>
 </p>
 
