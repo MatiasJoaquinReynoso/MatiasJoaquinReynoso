@@ -1,7 +1,7 @@
 Hi 👋 My name is Matias Reynoso
 ===============================
 
-QA Manual / Test Automation Engineer
+Test Automation Engineer
 ------------------
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [matiasjoaquinreynoso@gmail.com](mailto:matiasjoaquinreynoso@gmail.com)
