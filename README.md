@@ -1,4 +1,4 @@
-Hi 👋 My name is Matias Reynoso
+Hi 👋 I'm Matias Reynoso
 ===============================
 
 Quality Assurance Automation Engineer
