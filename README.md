@@ -10,7 +10,7 @@ Quality Assurance Automation Engineer
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,selenium,gherkin,java" />
+    <img src="https://skillicons.dev/icons?i=js,selenium,gherkin,java" />
   </a>
 </p>
 
