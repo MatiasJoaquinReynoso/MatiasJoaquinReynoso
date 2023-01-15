@@ -9,6 +9,7 @@ Quality Assurance Automation Engineer
 ## About my job/role
 
 I am currently working automating web pages and APIs using frameworks such as Cypress/Selenium/Tosca Commander.
+
 I can perform automations both on desktop and mobile.
 
 
