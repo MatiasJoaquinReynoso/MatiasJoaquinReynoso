@@ -6,6 +6,12 @@ Quality Assurance Automation Engineer
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [matiasjoaquinreynoso@gmail.com](mailto:matiasjoaquinreynoso@gmail.com)
 
+## About my job/role
+
+I am currently working automating web pages and APIs using frameworks such as Cypress/Selenium/Tosca Commander.
+I can perform automations both on desktop and mobile.
+
+
 ### Skills
 
 <p align="left">
